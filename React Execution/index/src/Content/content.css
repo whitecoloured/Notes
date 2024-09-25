@@ -1,0 +1,24 @@
+main
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.contentContainer
+{
+    display: flex;
+    width: 95%;
+    flex-wrap: wrap;
+}
+
+.note
+{
+    border: 2px;
+    height: 200px;
+    width: 360px;
+    border: 2px solid black;
+    margin-right: 7%;
+    margin-bottom: 1%;
+    border-radius: 15%;
+    box-shadow: 1px 2px 2px 1px rgb(122, 122, 122);
+}

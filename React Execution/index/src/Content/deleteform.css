@@ -1,0 +1,30 @@
+.delForm
+{
+    width: 60%;
+}
+
+.delForm h1
+{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.buttArea
+{
+    width: 50%;
+    margin-left: 7%;
+    display: flex;
+}
+.delForm button
+{
+    height: 75px;
+    width: 100%;
+    background-color: firebrick;
+    color: whitesmoke;
+    font-size: 25px;
+    margin-right: 0.5%;
+}
+
+.delForm button:hover
+{
+    background-color: rgb(112, 22, 22);
+    transition: 0.3s ease-in;
+}
